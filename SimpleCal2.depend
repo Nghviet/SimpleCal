@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1550918554 source:l:\simplecal2\sub.cpp
+	"Sub.h"
+
+1550918554 l:\simplecal2\sub.h
+	<vector>
+
+1551185152 source:l:\simplecal2\main.cpp
+	<iostream>
+	<vector>
+	"Constant.h"
+	<math.h>
+
+1551103983 l:\simplecal2\constant.h
+
